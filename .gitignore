@@ -1,1 +1,5 @@
 imgs
+package-lock.json
+node_modules
+*.db
+lru/users.js
